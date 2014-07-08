@@ -1,1 +1,1 @@
-Welcome to gitgut, the unnoficial digesting organ of github!  to digest code, press one.  To digest code in espanol, press two.
+Welcome to gitgut, the unoficial digesting organ of github!  to digest code, press one.  To digest code in espanol, press two.
